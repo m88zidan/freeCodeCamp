@@ -9,6 +9,8 @@ localeTitle: ''
 
 ## Description
 undefined
+
+شهادات مقترحة في مجال علم البيانات
 \\
 
 ## Instructions
