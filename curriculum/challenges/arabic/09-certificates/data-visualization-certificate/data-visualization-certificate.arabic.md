@@ -12,7 +12,9 @@ undefined
 
 شهادات مقترحة في مجال علم البيانات
 \\
-
+1. Data Integration in Talend (Basic and Advanced) (Talend is an ETL tool)
+2. Google cloud Platform proffesional data engineer certification
+3. Informatica certification (Informatica is an ETL tool)
 ## Instructions
 undefined
 
